@@ -30,4 +30,3 @@ export default async function Home() {
     </div>
   </div>)
 }
-// testing from home
